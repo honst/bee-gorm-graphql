@@ -2,7 +2,7 @@ package graphql
 
 import (
   "github.com/zohararad/bee-gorm-graphql/models"
-  "github.com/neelance/graphql-go"
+  "github.com/graph-gophers/graphql-go"
 )
 
 type userResolver struct {

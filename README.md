@@ -6,7 +6,7 @@ This app is a demo of using a Beego powered backend, with a Vue.js powered front
 
 * [Beego](https://beego.me/) - Golang powered Web framework.
 * [Gorm](http://jinzhu.me/gorm) - Golang ORM - used instead of Beego's ORM due to better support of Postgres features (and fun).
-* [graphql-go](https://github.com/neelance/graphql-go) - Golang implementation of GraphQL.
+* [graphql-go](https://github.com/graph-gophers/graphql-go) - Golang implementation of GraphQL.
 
 ## Client-Side
 
@@ -41,7 +41,7 @@ $ bee run #open http://localhost:8080
 
 ## Credits
 
-GraphiQL UI is embedded as is. This was blatantly "ripped off" from the **graphql-go** Github repo [StarWars Example](https://github.com/neelance/graphql-go/blob/master/example/starwars/server/server.go)
+GraphiQL UI is embedded as is. This was blatantly "ripped off" from the **graphql-go** Github repo [StarWars Example](https://github.com/graph-gophers/graphql-go/blob/master/example/starwars/server/server.go)
 
 ## Todo
 

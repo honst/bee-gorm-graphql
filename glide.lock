@@ -17,7 +17,7 @@ imports:
   version: 74387dc39a75e970e7a3ae6a3386b5bd2e5c5cff
 - name: github.com/lib/pq
   version: 4a82388ebc5138c8289fe9bc602cb0b3e32cd617
-- name: github.com/neelance/graphql-go
+- name: github.com/graph-gophers/graphql-go
   version: 191422c4ccf1fef693582e7f18bc263e6f2e09d2
   subpackages:
   - errors

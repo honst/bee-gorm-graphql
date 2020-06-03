@@ -2,7 +2,7 @@ package graphql
 
 import (
   "context"
-  "github.com/neelance/graphql-go"
+  "github.com/graph-gophers/graphql-go"
 )
 
 type Resolver struct{}

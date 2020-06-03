@@ -5,7 +5,7 @@ import (
   "github.com/astaxie/beego"
   "encoding/json"
   "context"
-  "github.com/neelance/graphql-go"
+  "github.com/graph-gophers/graphql-go"
   gql "github.com/zohararad/bee-gorm-graphql/graphql"
 )
 

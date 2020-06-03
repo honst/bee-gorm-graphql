@@ -7,7 +7,7 @@ import:
 - package: github.com/lib/pq
 - package: github.com/jinzhu/gorm
   version: ~1.0.0
-- package: github.com/neelance/graphql-go
+- package: github.com/graph-gophers/graphql-go
 testImport:
 - package: github.com/smartystreets/goconvey
   version: ~1.6.2
