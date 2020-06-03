@@ -1,4 +1,4 @@
-package: github.com/zohararad/bee-gorm-graphql
+package: github.com/honst/bee-gorm-graphql
 import:
 - package: github.com/astaxie/beego
   version: ~1.7.2

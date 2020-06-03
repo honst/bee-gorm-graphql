@@ -1,7 +1,7 @@
 package graphql
 
 import (
-  "github.com/zohararad/bee-gorm-graphql/models"
+  "github.com/honst/bee-gorm-graphql/models"
   "github.com/graph-gophers/graphql-go"
 )
 

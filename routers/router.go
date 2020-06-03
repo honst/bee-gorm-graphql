@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/zohararad/bee-gorm-graphql/controllers"
+	"github.com/honst/bee-gorm-graphql/controllers"
 	"github.com/astaxie/beego"
 )
 

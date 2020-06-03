@@ -1,7 +1,7 @@
 package models
 
 import (
-  "github.com/zohararad/bee-gorm-graphql/db"
+  "github.com/honst/bee-gorm-graphql/db"
   "fmt"
   "crypto/sha256"
   "github.com/astaxie/beego"

@@ -6,7 +6,7 @@ import (
   "encoding/json"
   "context"
   "github.com/graph-gophers/graphql-go"
-  gql "github.com/zohararad/bee-gorm-graphql/graphql"
+  gql "github.com/honst/bee-gorm-graphql/graphql"
 )
 
 var schema *graphql.Schema

@@ -1,10 +1,10 @@
 package main
 
 import (
-  _ "github.com/zohararad/bee-gorm-graphql/routers"
-  _ "github.com/zohararad/bee-gorm-graphql/models" // import models package so models initialize and register
+  _ "github.com/honst/bee-gorm-graphql/routers"
+  _ "github.com/honst/bee-gorm-graphql/models" // import models package so models initialize and register
   "github.com/astaxie/beego"
-  "github.com/zohararad/bee-gorm-graphql/db"
+  "github.com/honst/bee-gorm-graphql/db"
   "github.com/jinzhu/gorm"
 )
 
